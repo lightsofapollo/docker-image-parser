@@ -1,0 +1,28 @@
+{
+  "name": "docker-image-parser",
+  "version": "0.0.0",
+  "description": "Parse a docker image into repository / user / name : tag segments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lightsofapollo/docker-image-parser.git"
+  },
+  "keywords": [
+    "docker",
+    "parser",
+    "docker",
+    "image"
+  ],
+  "author": "James Lal [:lightsofapollo]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightsofapollo/docker-image-parser/issues"
+  },
+  "homepage": "https://github.com/lightsofapollo/docker-image-parser",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
