@@ -40,4 +40,3 @@ suite('docker-image-parser', function() {
     });
   });
 });
-

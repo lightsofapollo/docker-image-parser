@@ -1,7 +1,7 @@
 {
   "name": "docker-image-parser",
-  "version": "0.0.0",
-  "description": "Parse a docker image into repository / user / name : tag segments",
+  "version": "1.0.0",
+  "description": "Parse a docker image into repository /tag segments",
   "main": "index.js",
   "scripts": {
     "test": "mocha index_test.js"
